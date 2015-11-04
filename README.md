@@ -57,7 +57,7 @@ Verwendete Konzepte:
 
 ## FizzBuzz
 
-Schreibe ein Programm, dass die Zahlen von 0 bis 100 ausgibt. Fuer jede Zahl, die durch 3 teilbar ist, gebe statt der Zahl `fizz` aus.
+Schreibe ein Programm, dass die Zahlen von 1 bis 100 ausgibt. Fuer jede Zahl, die durch 3 teilbar ist, gebe statt der Zahl `fizz` aus.
 Fuer jede Zahl, die durch 5 teilbar ist, gebe statt der Zahl `buzz` aus. Wenn eine Zahl durch 3 und 5 teilbar ist, gebe `FizzBuzz` aus.
 
 ```bash
