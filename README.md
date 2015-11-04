@@ -62,7 +62,6 @@ Fuer jede Zahl, die durch 5 teilbar ist, gebe statt der Zahl `buzz` aus. Wenn ei
 
 ```bash
 $ ruby fizzbuzz.rb
-> 0
 > 1
 > 2
 > Fizz
