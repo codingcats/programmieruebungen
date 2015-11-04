@@ -6,9 +6,9 @@ Schreibe ein Programm, welches nach dem Namen und der Lieblingsfarbe der Benutze
 
 ```bash
 $ ruby names.rb
-> Vorname: Jane
+> Vorname: Jan
 > Lieblingsfarbe: Gruen
-> Hallo, ich heiße Jane und meine Lieblingsfarbe ist Gruen.
+> Hallo, ich heiße Jan und meine Lieblingsfarbe ist Gruen.
 ```
 
 Verwendete Konzepte:
@@ -24,6 +24,7 @@ ausgibt.
 ```bash
 $ ruby even_numbers.rb
 > Deine Zahl: 100
+> 0
 > 2
 > 4
 > 6
